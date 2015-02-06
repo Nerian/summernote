@@ -91,4 +91,5 @@
       }
     }
   });
+  $.extend($.summernote.lang, {'es': $.summernote.lang['es-ES']})
 })(jQuery);
